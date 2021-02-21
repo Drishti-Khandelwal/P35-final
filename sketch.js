@@ -5,8 +5,8 @@ var position;
 var bg;
 var banimation;
 function preload(){
- bg = loadImage("/p5.play-boilerplate-master/pro-C35 images/Hot Air Ballon-01.png");
-banimation= loadAnimation("/p5.play-boilerplate-master/pro-C35 images/Hot Air Ballon-02.png", "/p5.play-boilerplate-master/pro-C35 images/Hot Air Ballon-03.png", "/p5.play-boilerplate-master/pro-C35 images/Hot Air Ballon-04.png")
+ bg = loadImage("pro-C35 images/Hot Air Ballon-01.png");
+banimation= loadAnimation("pro-C35 images/Hot Air Ballon-02.png", "pro-C35 images/Hot Air Ballon-03.png", "pro-C35 images/Hot Air Ballon-04.png")
 }
 
 function setup(){
